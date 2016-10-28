@@ -1,0 +1,9 @@
+Renault Clio:
+Koszt utrzymania: 300.75
+Zuzycie paliwa: 13.5
+VW Polo:
+Koszt utrzymania: 160.4
+Zuzycie paliwa: 13.5
+Dodge Durango:
+Koszt utrzymania: 200.5
+Zuzycie paliwa: 9.0
